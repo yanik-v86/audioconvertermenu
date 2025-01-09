@@ -1,6 +1,8 @@
 # audioconvertermenu
 A dolphin menu to convert audio files to mp3
 
+![[menu.png]]
+
 # Usage on Dolphin (KDE)
 Use right-clic on a multimedia file, and enter in the "Converter" submenu:
 
