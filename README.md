@@ -18,5 +18,11 @@ chmod u+x ~/.local/share/kio/servicemenus/{audioConverterMenu.desktop,convert.sh
 ```
 
 # Dependancies
+```shell
+sudo apt install kdialog # для Debian/Ubuntu
+sudo pacman -S kdialog # для Arch/Manjaro
+sudo dnf install kdialog # для Fedora
+```
+
 - [ffmpeg](https://ffmpeg.org/) to convert files
 - [lame](http://lame.sourceforge.net/) for mp3 support
