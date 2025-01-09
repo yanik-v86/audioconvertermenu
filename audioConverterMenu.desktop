@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Service
+Actions=ConvertToMP3
+Encoding=UTF-8
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=audio/*
+X-KDE-Priority=TopLevel
+X-KDE-StartupNotify=false
+#X-KDE-Submenu=Converter 
+
+[Desktop Action ConvertToMP3]
+Name=Convert to MP3
+Icon=audio-x-generic
+Exec=~/.local/share/kio/servicemenus/convert.sh %F
+Name=Convert multimedia file to mp3 
+Icon=audio
