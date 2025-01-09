@@ -5,12 +5,12 @@ A dolphin menu to convert audio files to mp3
 
 
 # Usage on Dolphin (KDE)
-Use right-clic on a multimedia file, and enter in the **"Convert multimedia file to mp3"**.
+Use right-clic on a multimedia file, and use **"Convert multimedia file to mp3"**.
 
 # Installation
-Find your kio directory. A commonly used directory is **~/.local/share/kio/servicemenus/**
+Find your **kio/servicemenus** directory. A commonly used directory is **~/.local/share/kio/servicemenus/**
 
-Add audioConverterMenu.desktop and convert.sh files in your **~/.local/share/kio/servicemenus/** directory. It will add a new "Audio" entry in the right-clic menu.
+Add **audioConverterMenu.desktop** and **convert.sh** files in your **~/.local/share/kio/servicemenus/** directory. It will add a new "Convert multimedia file to mp3" entry in the right-clic menu.
 
 # After
 ```shell
