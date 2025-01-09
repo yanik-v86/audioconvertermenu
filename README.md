@@ -1,4 +1,4 @@
-# audioconvertermenu
+# AudioConverterMenuDolphin
 A dolphin menu to convert audio files to mp3
 
  ![menu](https://github.com/user-attachments/assets/0c8d64c1-5f09-4824-a75c-c399e0c32563)
