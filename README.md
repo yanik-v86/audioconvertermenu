@@ -14,5 +14,5 @@ chmod u+x ~/.local/share/kio/servicemenus/{audioConverterMenu.desktop,convert.sh
 ```
 
 # Dependancies
--[ ] [ffmpeg](https://ffmpeg.org/) to convert files
--[ ] [lame](http://lame.sourceforge.net/) for mp3 support
+-[] [ffmpeg](https://ffmpeg.org/) to convert files
+-[] [lame](http://lame.sourceforge.net/) for mp3 support
