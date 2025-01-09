@@ -6,6 +6,7 @@ Use right-clic on a multimedia file, and enter in the "Converter" submenu:
 
 # Installation
 Find your kio directory. A commonly used directory is $HOME/.local/share/kio/servicemenus/
+
 Add audioConverterMenu.desktop file in your kio/servicemenus directory. It will add a new "Audio" entry in the right-clic menu.
 
 # After
